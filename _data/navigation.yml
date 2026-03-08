@@ -1,7 +1,7 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Research Projets"
+  - title: "Research"
     url: /researchprojets/
   - title: "Teaching"
     url: /teaching/

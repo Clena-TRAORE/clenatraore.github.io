@@ -26,7 +26,7 @@ search: true
 
 url: "https://clenatraore.github.io"
 baseurl: ""
-repository: Clena-TRAORE/clenatraore.github.io
+repository: clenatraore.github.io
 
 # Build settings
 markdown: kramdown
